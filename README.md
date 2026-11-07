@@ -628,6 +628,7 @@ Daftar lengkap **ratusan tools OSINT** yang sudah teruji dan berfungsi untuk keb
 | [**Stalkscan**](https://stalkscan.com) | Facebook profile scanner |
 | [**TikTok Scraper**](https://github.com/drawrowfly/tiktok-scraper) | Scraping data TikTok |
 | [**TikTok Downloader**](https://snaptik.app) | Download video TikTok tanpa watermark |
+| [**TKMetrics**](https://tkmetrics.com) | Statistik profil TikTok publik: followers, likes, engagement rate |
 | [**Snapchat Map**](https://map.snapchat.com) | Snap Map untuk geolokasi (via web) |
 | [**Reddit Scraper**](https://github.com/datastacknet/reddit-scraper) | Scraping data Reddit |
 | [**Pushshift**](https://pushshift.io) | Reddit API dataset lengkap |
